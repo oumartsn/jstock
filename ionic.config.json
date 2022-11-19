@@ -1,0 +1,7 @@
+{
+  "name": "jstock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
